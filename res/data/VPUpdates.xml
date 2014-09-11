@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <VP id="0dd2" disable="false">
+        <!--- 加入原来的01 VP -->
+        <Accounts>
+            <Account type="QQIMAccount" id="11"/>
+            <Account type="QQIMAccount" id="22"/>
+            <Account type="QQIMAccount" id="23"/>
+        </Accounts>
+    </VP>
+    <VP id="0ddxx2" disable="false">
+        <!--- 创建一个新的虚拟人  -->
+        <Accounts>
+            <Account type="QQIMAccount" id="24"/>
+            <Account type="QQIMAccount" id="25"/>
+            <Account type="QQIMAccount" id="26"/>
+        </Accounts>
+    </VP>
+</root>

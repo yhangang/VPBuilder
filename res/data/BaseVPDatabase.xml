@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <VP id="01" disable="false">
+        <Accounts>
+            <Account type="QQIMAccount" id="11"/>
+            <Account type="QQIMAccount" id="12"/>
+            <Account type="QQIMAccount" id="13"/>
+        </Accounts>
+    </VP>
+    <VP id="02" disable="false">
+        <Accounts>
+            <Account type="QQIMAccount" id="14"/>
+            <Account type="QQIMAccount" id="15"/>
+            <Account type="QQIMAccount" id="16"/>
+        </Accounts>
+    </VP>
+    <VP id="03" disable="false">
+        <Accounts>
+            <Account type="QQIMAccount" id="17"/>
+            <Account type="QQIMAccount" id="18"/>
+        </Accounts>
+    </VP>
+</root>

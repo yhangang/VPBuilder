@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <Events>
+        <!--该文件为测试数据，请保证相同terminal的记录前后连接，且按时间排序。各Event的id从上到下从0增量排序-->
+        <Event id="0">
+            <time val="2014-05-27 00:12:01"/>
+            <terminal val="t002"/>
+            <account type="QQIMAccount" id="17"/>
+        </Event>
+        <Event id="1">
+            <time val="2014-05-27 00:12:01"/>
+            <terminal val="t002"/>
+            <account type="QQIMAccount" id="19"/>
+        </Event>
+                <Event id="2">
+            <time val="2014-05-27 01:00:01"/>
+            <terminal val="t002"/>
+            <account type="QQIMAccount" id="100"/>
+        </Event>
+    </Events>
+</root>
